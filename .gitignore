@@ -1,0 +1,18 @@
+
+# large artifacts (GitHub 100MB limit / re-downloadable)
+predictions_sean.csv
+predictions_postprocessed.csv
+predictions_ensemble.csv
+data/
+__pycache__/
+
+# gym-environment
+.claudeignore
+.copilotignore
+.cursorignore
+.cursorrules
+.geminiignore
+.github
+AGENTS.md
+CLAUDE.md
+GEMINI.md
